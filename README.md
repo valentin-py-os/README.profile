@@ -1,5 +1,3 @@
-Read.ME
-***
 Hello, I'm Valentin - a Junior Data Scientist and a student at WU Vienna with a strong passion for:
 
 🤖 Machine Learning, Web Automation, Business Intelligence, Finance & Data-Driven Decision Making
